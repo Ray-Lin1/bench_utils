@@ -1,0 +1,10 @@
+frame,scene,markings,boxes,reference_cells,max_grid_error_pp,min_ms,median_ms,mean_ms,p95_ms
+1,Unobstructed stop bar,1,0,3570,0.0,0.065522,0.074597,0.089477,0.168474
+2,Road patches ahead of and behind a car,2,1,10000,0.0,0.195634,0.242549,0.271377,0.417467
+3,Half-covered rectangular marking,1,1,5000,0.0,0.174767,0.210605,0.224919,0.341409
+4,Rectangular marking at a shadow edge,1,1,5000,0.0,0.174703,0.206384,0.221733,0.322221
+5,Triangular painted gore at a merge,1,1,30000,0.0,0.173482,0.186346,0.197937,0.242278
+6,Zebra crossing behind a motorcycle,1,1,26400,0.378788,0.483892,0.536773,0.556148,0.689833
+7,Concave straight-ahead arrow,1,1,14000,0.0,0.170273,0.186001,0.203194,0.294635
+8,Side marking with overlapping car shadows,1,2,15000,0.0,0.267797,0.29573,0.310153,0.38809
+9,"Dense arterial: 20 markings, 20 boxes",20,20,436304,0.546826,6.733665,7.176795,7.254689,7.865
