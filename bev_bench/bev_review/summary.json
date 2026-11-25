@@ -1,0 +1,15 @@
+{
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.10.20",
+  "numpy": "2.2.6",
+  "matplotlib": "3.10.9",
+  "frames_passed": 20,
+  "total_points": 27691,
+  "total_occluded_points": 9599,
+  "warmup_calls_per_frame": 20,
+  "repeats_per_frame": 200,
+  "median_frame_median_ms": 0.201842,
+  "max_frame_median_ms": 2.142645,
+  "max_frame_p95_ms": 2.790016,
+  "timing_scope": "bev_occlusion_mask call, including input checks and allocation"
+}
